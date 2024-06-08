@@ -1,0 +1,8 @@
+<launch>
+    <node
+        pkg="hardware_interface_01"
+        type="hw_intf_01"
+        name="hardware_interface_01"
+    />
+    
+</launch>

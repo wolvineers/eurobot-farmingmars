@@ -1,0 +1,6 @@
+routine
+/home/aida/Desktop/eurobot_2024/devel/.private/routine/cmake.lock /home/aida/Desktop/eurobot_2024/devel/./cmake.lock
+/home/aida/Desktop/eurobot_2024/devel/.private/routine/lib/pkgconfig/routine.pc /home/aida/Desktop/eurobot_2024/devel/lib/pkgconfig/routine.pc
+/home/aida/Desktop/eurobot_2024/devel/.private/routine/lib/routine/routine /home/aida/Desktop/eurobot_2024/devel/lib/routine/routine
+/home/aida/Desktop/eurobot_2024/devel/.private/routine/share/routine/cmake/routineConfig.cmake /home/aida/Desktop/eurobot_2024/devel/share/routine/cmake/routineConfig.cmake
+/home/aida/Desktop/eurobot_2024/devel/.private/routine/share/routine/cmake/routineConfig-version.cmake /home/aida/Desktop/eurobot_2024/devel/share/routine/cmake/routineConfig-version.cmake

@@ -1,0 +1,7 @@
+tests
+/home/aida/Desktop/eurobot_2024/devel/.private/tests/cmake.lock /home/aida/Desktop/eurobot_2024/devel/./cmake.lock
+/home/aida/Desktop/eurobot_2024/devel/.private/tests/lib/pkgconfig/tests.pc /home/aida/Desktop/eurobot_2024/devel/lib/pkgconfig/tests.pc
+/home/aida/Desktop/eurobot_2024/devel/.private/tests/lib/tests/routine_test /home/aida/Desktop/eurobot_2024/devel/lib/tests/routine_test
+/home/aida/Desktop/eurobot_2024/devel/.private/tests/lib/tests/controller_test /home/aida/Desktop/eurobot_2024/devel/lib/tests/controller_test
+/home/aida/Desktop/eurobot_2024/devel/.private/tests/share/tests/cmake/testsConfig.cmake /home/aida/Desktop/eurobot_2024/devel/share/tests/cmake/testsConfig.cmake
+/home/aida/Desktop/eurobot_2024/devel/.private/tests/share/tests/cmake/testsConfig-version.cmake /home/aida/Desktop/eurobot_2024/devel/share/tests/cmake/testsConfig-version.cmake

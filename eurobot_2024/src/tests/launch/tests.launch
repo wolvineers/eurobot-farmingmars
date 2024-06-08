@@ -1,0 +1,7 @@
+<launch>
+    <node
+        pkg="tests"
+        type="controller_test"
+        name="encoder_simulator"
+    />
+</launch>
